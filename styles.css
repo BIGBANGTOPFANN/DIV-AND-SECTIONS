@@ -30,4 +30,8 @@
     margin-top: 0;
  }
 
+ /* paragraphs inside each box*/
+ .project-box p{
+    color: #14532d;
+ }
  
