@@ -9,14 +9,14 @@
 }
 
 /* Container holding the boxes */
-.project-container{
+.projects-container{
     display: flex;
     gap: 20px;
     flex-wrap: wrap;
 }
 
 /* Individual div boxes */
-.project-box {
+.projects-box {
     background-color: #bbf7d0;
     padding: 20px;
     border: 2px solid #16a34a;
@@ -31,7 +31,7 @@
  }
 
  /* paragraphs inside each box*/
- .project-box p{
+ .project-box p {
     color: #14532d;
  }
  
